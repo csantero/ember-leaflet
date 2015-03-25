@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-leaflet',
+  name: 'ember-cli-leaflet',
   included: function(app) {
     //import javascript
     app.import(app.bowerDirectory + '/leaflet/dist/leaflet-src.js');
