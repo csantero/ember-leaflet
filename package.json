@@ -1,5 +1,5 @@
 {
-  "name": "ember-leaflet",
+  "name": "ember-cli-leaflet",
   "version": "0.0.0",
   "description": "Ember + Leaflet = Fun with maps!",
   "directories": {
